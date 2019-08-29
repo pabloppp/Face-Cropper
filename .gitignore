@@ -1,0 +1,5 @@
+images/*
+!images/.gitkeep
+output/*
+!output/.gitkeep
+face2face/
